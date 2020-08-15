@@ -1,0 +1,19 @@
+{
+  "name": "Nerd Calistênico",
+  "description": "Idealizado por Hemerson Vianna, tem o foco em troca de conhecimento",
+  "short_name": "N.Calistênico",
+  "scope": "/",
+	"start_url": "/?source=pwa",
+	"lang": "pt-BR",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#212121",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-512x512.png?v4",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
