@@ -198,6 +198,13 @@
   </url>
   
   <url>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/IT-management/comecando-com-a-metodologia-agil/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/angular/comecando-com-angular/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -226,13 +233,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/IT-management/comecando-com-a-metodologia-agil/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/javascript/comecando-com-ecma-script-2015/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -241,6 +241,13 @@
   
   <url>
     <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/git/comecando-com-git/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/comecando-com-gruntjs/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -317,13 +324,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/comecando-com-gruntjs/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/php/comecando-com-php/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -345,6 +345,13 @@
   </url>
   
   <url>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react-native/comecando-com-react-native/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react/comecando-com-react/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -352,7 +359,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react-native/comecando-com-react-native/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/ruby/comecando-com-ruby/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -387,13 +394,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/ruby/comecando-com-ruby/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/vue/comecando-com-vue/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -401,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/php/comecando-com-wordpress/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/comecando-com-wai-aria/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/comecando-com-wai-aria/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/php/comecando-com-wordpress/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -443,14 +443,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/desenvolvedor-client-side/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/git/fluxo-e-versionamento-semantico-com-git/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/git/fluxo-e-versionamento-semantico-com-git/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/desenvolvedor-client-side/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -485,14 +485,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react/react-hooks/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react/react-ciclo-de-vida-e-context-api/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react/react-ciclo-de-vida-e-context-api/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react/react-hooks/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -534,14 +534,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/ui-grid-sistemas-e-bibliotecas/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react-native/react-native-tela-de-abertura-e-icone/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/react-native/react-native-tela-de-abertura-e-icone/</loc>
+    <loc>https://nerdcalistenico.com.br/hemersonvianna/artigos/front-end/ui-grid-sistemas-e-bibliotecas/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     

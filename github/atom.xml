@@ -33,24 +33,6 @@
   </entry>
   
   <entry>
-    <title>Fibonacci Sequence</title>
-    <link href="https://nerdcalistenico.com.br/github/projects/victorinox-tool/math/fibonacci-sequence/"/>
-    <id>https://nerdcalistenico.com.br/github/projects/victorinox-tool/math/fibonacci-sequence/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.com.br/github/projects/victorinox-tool/"/>
-    
-      <category term="math" scheme="https://nerdcalistenico.com.br/github/projects/victorinox-tool/math/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Email Templates</title>
     <link href="https://nerdcalistenico.com.br/github/projects/victorinox-tool/insight/email-templates/"/>
     <id>https://nerdcalistenico.com.br/github/projects/victorinox-tool/insight/email-templates/</id>
@@ -64,6 +46,24 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.com.br/github/projects/victorinox-tool/"/>
     
       <category term="insight" scheme="https://nerdcalistenico.com.br/github/projects/victorinox-tool/insight/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fibonacci Sequence</title>
+    <link href="https://nerdcalistenico.com.br/github/projects/victorinox-tool/math/fibonacci-sequence/"/>
+    <id>https://nerdcalistenico.com.br/github/projects/victorinox-tool/math/fibonacci-sequence/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.com.br/github/projects/victorinox-tool/"/>
+    
+      <category term="math" scheme="https://nerdcalistenico.com.br/github/projects/victorinox-tool/math/"/>
     
     
   </entry>
