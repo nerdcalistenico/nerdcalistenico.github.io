@@ -65,6 +65,13 @@
   </url>
   
   <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/</loc>
+    
+    <lastmod>2020-08-07T00:55:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-27-jogo-de-matar-moscas/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
@@ -79,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-31-criando-uma-piramide/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
@@ -101,13 +108,6 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/</loc>
-    
-    <lastmod>2020-08-07T00:55:29.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-31-criando-uma-piramide/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-a-metodologia-agil/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/angular/comecando-com-angular/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-bdd/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-a-metodologia-agil/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/angular/comecando-com-angular/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-bdd/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/html/comecando-com-html/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/comecando-com-gruntjs/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/comecando-com-gruntjs/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/html/comecando-com-html/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -283,13 +283,6 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/php/comecando-com-laravel/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-logica-de-programacao/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -345,6 +338,13 @@
   </url>
   
   <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-logica-de-programacao/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/comecando-com-react-native/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -387,13 +387,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-uml/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/vue/comecando-com-vue/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -423,6 +416,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/conhecendo-o-fluxo-de-trabalho-front-end/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-uml/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -513,14 +513,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-criando-layouts-parte-2/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-estilizacao/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-estilizacao/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-criando-layouts-parte-2/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
