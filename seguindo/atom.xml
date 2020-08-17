@@ -5,9 +5,9 @@
   
   <link href="/seguindo/atom.xml" rel="self"/>
   
-  <link href="https://nerdcalistenico.com.br/seguindo/"/>
+  <link href="https://nerdcalistenico.github.io/seguindo/"/>
   <updated>2020-07-27T20:20:07.000Z</updated>
-  <id>https://nerdcalistenico.com.br/seguindo/</id>
+  <id>https://nerdcalistenico.github.io/seguindo/</id>
   
   <author>
     <name>Seguindo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Aarron Walter</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/aarron-walter/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/aarron-walter/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/aarron-walter/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/aarron-walter/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="ux/ui" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/"/>
+      <category term="ux/ui" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/"/>
     
     
   </entry>
   
   <entry>
     <title>Addy Osmani</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/addy-osmani/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/addy-osmani/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/addy-osmani/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/addy-osmani/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -59,17 +59,17 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="front-end/js" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/"/>
+      <category term="front-end/js" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/"/>
     
     
   </entry>
   
   <entry>
     <title>Adoro Cinema</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/adorocinema/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/movies-series/adorocinema/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/adorocinema/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/movies-series/adorocinema/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -84,88 +84,15 @@
     
     </summary>
     
-      <category term="movies/series" scheme="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Andy Budd</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/andy-budd/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/andy-budd/</id>
-    <published>2020-07-27T20:20:07.000Z</published>
-    <updated>2020-07-27T20:20:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Design Leader, conference speaker, start-up advisor. <a href="https://twitter.com/Clearleft" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@Clearleft</a> and <a href="https://twitter.com/DigitalBrighton" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@DigitalBrighton</a> co-founder, <a href="https://twitter.com/LDConf" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@LDConf</a> and <a href="https://twitter.com/UXLondon" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@UXLondon</a> curator. Trainee Pilot. Ex shark-wrangler.</p><ul><li><strong>Website</strong>: <a href="http://www.andybudd.com/" target="_blank" rel="noopener">http://www.andybudd.com/</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/andybudd?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by andybudd</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Design Leader, conference speaker, start-up advisor. &lt;a href=&quot;https://twitter.com/Clearleft&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; dir=&quot;ltr&quot; rol
-      
-    
-    </summary>
-    
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
-    
-      <category term="ux/ui" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Axel Rauschmayer</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/axel-rauschmayer/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/axel-rauschmayer/</id>
-    <published>2020-07-27T20:20:07.000Z</published>
-    <updated>2020-07-27T20:20:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>JavaScript: blog <a href="https://twitter.com/2ality" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@2ality</a>, books <a href="https://twitter.com/ExploringJS" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@ExploringJS</a>, training, newsletter <a href="https://twitter.com/ESnextNews" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@ESnextNews</a> <a href="https://t.co/h4IxIYLYdk?amp=1" target="_blank" dir="ltr" role="link" data-focusable="true" rel="noopener noreferrer" title="http://pronoun.is/he">pronoun.is/he</a></p><ul><li><strong>Website</strong>: <a href="http://dr-axel.de/" target="_blank" rel="noopener">http://dr-axel.de/</a></li><li><strong>Github</strong>: <a href="https://github.com/rauschma" target="_blank" rel="noopener">https://github.com/rauschma</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/rauschma?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by rauschma</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;JavaScript: blog &lt;a href=&quot;https://twitter.com/2ality&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; dir=&quot;ltr&quot; role=&quot;link&quot; data-focusable=&quot;true&quot;&gt;@2ality&lt;
-      
-    
-    </summary>
-    
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
-    
-      <category term="front-end/js" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Chef TV</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/gastronomy-recipes/cheftvbrasil/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/gastronomy-recipes/cheftvbrasil/</id>
-    <published>2020-07-27T20:20:07.000Z</published>
-    <updated>2020-07-27T20:20:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Canal brasileiro 100% dedicado a gastronomia.</p><ul><li><strong>Website</strong>: <a href="https://www.cheftv.com.br/" target="_blank" rel="noopener">https://www.cheftv.com.br/</a></li><li><strong>Instagram</strong>: <a href="https://www.instagram.com/cheftvbrasil/" target="_blank" rel="noopener">@cheftvbrasil</a></li><li><strong>Youtube</strong>: <a href="https://www.youtube.com/channel/UCWLs0jltx1hnCUbXvAkE7ZA" target="_blank" rel="noopener">@cheftvbrasil</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/cheftvbrasil?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by cheftvbrasil</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Canal brasileiro 100% dedicado a gastronomia.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&quot;https://www.cheftv.com.br/&quot; target=&quot;_blank&quot; r
-      
-    
-    </summary>
-    
-      <category term="gastronomy/recipes" scheme="https://nerdcalistenico.com.br/seguindo/categorias/gastronomy-recipes/"/>
+      <category term="movies/series" scheme="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/"/>
     
     
   </entry>
   
   <entry>
     <title>André Staltz</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/andre-staltz/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/andre-staltz/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/andre-staltz/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/andre-staltz/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -180,17 +107,90 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="front-end/js" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/"/>
+      <category term="front-end/js" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Andy Budd</title>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/andy-budd/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/andy-budd/</id>
+    <published>2020-07-27T20:20:07.000Z</published>
+    <updated>2020-07-27T20:20:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Design Leader, conference speaker, start-up advisor. <a href="https://twitter.com/Clearleft" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@Clearleft</a> and <a href="https://twitter.com/DigitalBrighton" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@DigitalBrighton</a> co-founder, <a href="https://twitter.com/LDConf" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@LDConf</a> and <a href="https://twitter.com/UXLondon" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@UXLondon</a> curator. Trainee Pilot. Ex shark-wrangler.</p><ul><li><strong>Website</strong>: <a href="http://www.andybudd.com/" target="_blank" rel="noopener">http://www.andybudd.com/</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/andybudd?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by andybudd</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Design Leader, conference speaker, start-up advisor. &lt;a href=&quot;https://twitter.com/Clearleft&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; dir=&quot;ltr&quot; rol
+      
+    
+    </summary>
+    
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
+    
+      <category term="ux/ui" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Axel Rauschmayer</title>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/axel-rauschmayer/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/axel-rauschmayer/</id>
+    <published>2020-07-27T20:20:07.000Z</published>
+    <updated>2020-07-27T20:20:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>JavaScript: blog <a href="https://twitter.com/2ality" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@2ality</a>, books <a href="https://twitter.com/ExploringJS" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@ExploringJS</a>, training, newsletter <a href="https://twitter.com/ESnextNews" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@ESnextNews</a> <a href="https://t.co/h4IxIYLYdk?amp=1" target="_blank" dir="ltr" role="link" data-focusable="true" rel="noopener noreferrer" title="http://pronoun.is/he">pronoun.is/he</a></p><ul><li><strong>Website</strong>: <a href="http://dr-axel.de/" target="_blank" rel="noopener">http://dr-axel.de/</a></li><li><strong>Github</strong>: <a href="https://github.com/rauschma" target="_blank" rel="noopener">https://github.com/rauschma</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/rauschma?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by rauschma</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;JavaScript: blog &lt;a href=&quot;https://twitter.com/2ality&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; dir=&quot;ltr&quot; role=&quot;link&quot; data-focusable=&quot;true&quot;&gt;@2ality&lt;
+      
+    
+    </summary>
+    
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
+    
+      <category term="front-end/js" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Chef TV</title>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/gastronomy-recipes/cheftvbrasil/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/gastronomy-recipes/cheftvbrasil/</id>
+    <published>2020-07-27T20:20:07.000Z</published>
+    <updated>2020-07-27T20:20:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Canal brasileiro 100% dedicado a gastronomia.</p><ul><li><strong>Website</strong>: <a href="https://www.cheftv.com.br/" target="_blank" rel="noopener">https://www.cheftv.com.br/</a></li><li><strong>Instagram</strong>: <a href="https://www.instagram.com/cheftvbrasil/" target="_blank" rel="noopener">@cheftvbrasil</a></li><li><strong>Youtube</strong>: <a href="https://www.youtube.com/channel/UCWLs0jltx1hnCUbXvAkE7ZA" target="_blank" rel="noopener">@cheftvbrasil</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/cheftvbrasil?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by cheftvbrasil</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Canal brasileiro 100% dedicado a gastronomia.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&quot;https://www.cheftv.com.br/&quot; target=&quot;_blank&quot; r
+      
+    
+    </summary>
+    
+      <category term="gastronomy/recipes" scheme="https://nerdcalistenico.github.io/seguindo/categorias/gastronomy-recipes/"/>
     
     
   </entry>
   
   <entry>
     <title>Christian Barbosa</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/investments-entr-finances/christian-barbosa/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/investments-entr-finances/christian-barbosa/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/investments-entr-finances/christian-barbosa/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/investments-entr-finances/christian-barbosa/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -205,15 +205,15 @@
     
     </summary>
     
-      <category term="investments/entr./finances" scheme="https://nerdcalistenico.com.br/seguindo/categorias/investments-entr-finances/"/>
+      <category term="investments/entr./finances" scheme="https://nerdcalistenico.github.io/seguindo/categorias/investments-entr-finances/"/>
     
     
   </entry>
   
   <entry>
     <title>Cifra Club</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/sounds-rhythms/cifra-club/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/sounds-rhythms/cifra-club/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/sounds-rhythms/cifra-club/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/sounds-rhythms/cifra-club/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -228,15 +228,15 @@
     
     </summary>
     
-      <category term="sounds/rhythms" scheme="https://nerdcalistenico.com.br/seguindo/categorias/sounds-rhythms/"/>
+      <category term="sounds/rhythms" scheme="https://nerdcalistenico.github.io/seguindo/categorias/sounds-rhythms/"/>
     
     
   </entry>
   
   <entry>
     <title>Cineclick</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/cineclick/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/movies-series/cineclick/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/cineclick/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/movies-series/cineclick/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -251,15 +251,15 @@
     
     </summary>
     
-      <category term="movies/series" scheme="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/"/>
+      <category term="movies/series" scheme="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/"/>
     
     
   </entry>
   
   <entry>
     <title>Cine POP</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/cinepop/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/movies-series/cinepop/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/cinepop/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/movies-series/cinepop/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -274,15 +274,15 @@
     
     </summary>
     
-      <category term="movies/series" scheme="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/"/>
+      <category term="movies/series" scheme="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/"/>
     
     
   </entry>
   
   <entry>
     <title>Dan Abramov</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/dan-abramov/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/dan-abramov/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/dan-abramov/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/dan-abramov/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -297,17 +297,17 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="front-end/js" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/"/>
+      <category term="front-end/js" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/"/>
     
     
   </entry>
   
   <entry>
     <title>Destinos Imperdíveis</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/tour-travels/destinos-imperdiveis/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/tour-travels/destinos-imperdiveis/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/tour-travels/destinos-imperdiveis/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/tour-travels/destinos-imperdiveis/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -322,15 +322,15 @@
     
     </summary>
     
-      <category term="tour/travels" scheme="https://nerdcalistenico.com.br/seguindo/categorias/tour-travels/"/>
+      <category term="tour/travels" scheme="https://nerdcalistenico.github.io/seguindo/categorias/tour-travels/"/>
     
     
   </entry>
   
   <entry>
     <title>Deutsche Welle Brasil</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/languages/dw-brasil/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/languages/dw-brasil/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/languages/dw-brasil/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/languages/dw-brasil/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -345,15 +345,15 @@
     
     </summary>
     
-      <category term="languages" scheme="https://nerdcalistenico.com.br/seguindo/categorias/languages/"/>
+      <category term="languages" scheme="https://nerdcalistenico.github.io/seguindo/categorias/languages/"/>
     
     
   </entry>
   
   <entry>
     <title>Evan You</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/evan-you/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/evan-you/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/evan-you/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/evan-you/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -368,17 +368,40 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="front-end/js" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/"/>
+      <category term="front-end/js" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/front-end-js/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>English Experts</title>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/languages/english-experts/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/languages/english-experts/</id>
+    <published>2020-07-27T20:20:07.000Z</published>
+    <updated>2020-07-27T20:20:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Um guia para quem estuda Inglês Online.</p><ul><li><strong>Website</strong>: <a href="https://www.englishexperts.com.br/" target="_blank" rel="noopener">https://www.englishexperts.com.br/</a></li><li><strong>Youtube</strong>: <a href="https://www.youtube.com/englishexpertstv" target="_blank" rel="noopener">@englishexpertstv</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/englishexperts?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by englishexperts</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Um guia para quem estuda Inglês Online.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href=&quot;https://www.englishexperts.com.br/&quot; target=&quot;_blank&quot;
+      
+    
+    </summary>
+    
+      <category term="languages" scheme="https://nerdcalistenico.github.io/seguindo/categorias/languages/"/>
     
     
   </entry>
   
   <entry>
     <title>Fabricio Teixeira</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/fabricio-teixeira/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/fabricio-teixeira/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/fabricio-teixeira/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/fabricio-teixeira/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -393,42 +416,17 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="ux/ui" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Filipe Deschamps</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/filipe-deschamps/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/filipe-deschamps/</id>
-    <published>2020-07-27T20:20:07.000Z</published>
-    <updated>2020-07-27T20:20:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Um cara legal. UPDATE: Twitter abandonado, estou presente no YouTube (<a href="https://t.co/Mdc1vUMmTa?amp=1" target="_blank" dir="ltr" role="link" data-focusable="true" rel="noopener noreferrer" title="https://youtube.com/FilipeDeschamps">youtube.com/FilipeDeschamps</a>) ou Insta: <a href="https://www.instagram.com/filipedeschamps" target="_blank" rel="noopener" dir="ltr" role="link" data-focusable="true">@filipedeschamps</a></p><ul><li><strong>Website</strong>: <a href="https://filipedeschamps.com.br/" target="_blank" rel="noopener">https://filipedeschamps.com.br/</a></li><li><strong>Github</strong>: <a href="https://github.com/filipedeschamps" target="_blank" rel="noopener">https://github.com/filipedeschamps</a></li></ul><p><a class="twitter-timeline" href="https://twitter.com/FilipeDeschamps?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">Tweets by FilipeDeschamps</a></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Um cara legal. UPDATE: Twitter abandonado, estou presente no YouTube (&lt;a href=&quot;https://t.co/Mdc1vUMmTa?amp=1&quot; target=&quot;_blank&quot; dir=&quot;ltr&quot; r
-      
-    
-    </summary>
-    
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
-    
-      <category term="front-end/js" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/front-end-js/"/>
+      <category term="ux/ui" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/"/>
     
     
   </entry>
   
   <entry>
     <title>Filmow</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/filmow/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/movies-series/filmow/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/filmow/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/movies-series/filmow/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -443,15 +441,15 @@
     
     </summary>
     
-      <category term="movies/series" scheme="https://nerdcalistenico.com.br/seguindo/categorias/movies-series/"/>
+      <category term="movies/series" scheme="https://nerdcalistenico.github.io/seguindo/categorias/movies-series/"/>
     
     
   </entry>
   
   <entry>
     <title>Gavin Roy (Small Advantages)</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/languages/gavin-roy/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/languages/gavin-roy/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/languages/gavin-roy/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/languages/gavin-roy/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -466,15 +464,15 @@
     
     </summary>
     
-      <category term="languages" scheme="https://nerdcalistenico.com.br/seguindo/categorias/languages/"/>
+      <category term="languages" scheme="https://nerdcalistenico.github.io/seguindo/categorias/languages/"/>
     
     
   </entry>
   
   <entry>
     <title>Glauber Laender</title>
-    <link href="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/glauber-laender/"/>
-    <id>https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/glauber-laender/</id>
+    <link href="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/glauber-laender/"/>
+    <id>https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/glauber-laender/</id>
     <published>2020-07-27T20:20:07.000Z</published>
     <updated>2020-07-27T20:20:07.000Z</updated>
     
@@ -489,9 +487,9 @@
     
     </summary>
     
-      <category term="technology" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/"/>
+      <category term="technology" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/"/>
     
-      <category term="ux/ui" scheme="https://nerdcalistenico.com.br/seguindo/categorias/technology/ux-ui/"/>
+      <category term="ux/ui" scheme="https://nerdcalistenico.github.io/seguindo/categorias/technology/ux-ui/"/>
     
     
   </entry>

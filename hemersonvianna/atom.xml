@@ -5,9 +5,9 @@
   
   <link href="/hemersonvianna/atom.xml" rel="self"/>
   
-  <link href="https://nerdcalistenico.com.br/hemersonvianna/"/>
+  <link href="https://nerdcalistenico.github.io/hemersonvianna/"/>
   <updated>2020-08-13T06:20:43.000Z</updated>
-  <id>https://nerdcalistenico.com.br/hemersonvianna/</id>
+  <id>https://nerdcalistenico.github.io/hemersonvianna/</id>
   
   <author>
     <name>Hemerson Vianna</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Dia 40/2019 - Detectar e validar números de cartão de crédito</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-40-detectar-e-validar-numeros-de-cartao-de-credito/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-40-detectar-e-validar-numeros-de-cartao-de-credito/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-40-detectar-e-validar-numeros-de-cartao-de-credito/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-40-detectar-e-validar-numeros-de-cartao-de-credito/</id>
     <published>2020-08-13T15:18:06.000Z</published>
     <updated>2020-08-13T06:20:43.000Z</updated>
     
@@ -34,15 +34,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 39/2019 - Brincando com array: Concat, Sort, Reverse e ForEach</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-39-brincando-com-array-concat-sort-reverse-e-foreach/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-39-brincando-com-array-concat-sort-reverse-e-foreach/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-39-brincando-com-array-concat-sort-reverse-e-foreach/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-39-brincando-com-array-concat-sort-reverse-e-foreach/</id>
     <published>2020-08-12T15:18:06.000Z</published>
     <updated>2020-08-12T06:58:43.000Z</updated>
     
@@ -57,15 +57,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 38/2019 - Paginação Simples</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-38-paginacao-simples/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-38-paginacao-simples/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-38-paginacao-simples/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-38-paginacao-simples/</id>
     <published>2020-08-11T15:18:06.000Z</published>
     <updated>2020-08-12T06:58:43.000Z</updated>
     
@@ -80,15 +80,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 37/2019 - Brincando com array: Splice, Slice, ToString e Join</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-37-brincando-com-array-splice-slice-tostring-e-join/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-37-brincando-com-array-splice-slice-tostring-e-join/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-37-brincando-com-array-splice-slice-tostring-e-join/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-37-brincando-com-array-splice-slice-tostring-e-join/</id>
     <published>2020-08-10T15:18:06.000Z</published>
     <updated>2020-08-10T04:19:21.000Z</updated>
     
@@ -103,15 +103,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 36/2019 - Webstorage: sessionStorage e LocalStorage</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-36-webstorage-sessionstorage-e-localstorage/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-36-webstorage-sessionstorage-e-localstorage/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-36-webstorage-sessionstorage-e-localstorage/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-36-webstorage-sessionstorage-e-localstorage/</id>
     <published>2020-08-09T15:18:06.000Z</published>
     <updated>2020-08-10T04:19:21.000Z</updated>
     
@@ -126,15 +126,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 35/2019 - Brincando com array: Push, Pop, Unshift e Shift</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-35-brincando-com-array-push-pop-unshift-e-shift/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-35-brincando-com-array-push-pop-unshift-e-shift/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-35-brincando-com-array-push-pop-unshift-e-shift/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-35-brincando-com-array-push-pop-unshift-e-shift/</id>
     <published>2020-08-08T15:18:06.000Z</published>
     <updated>2020-08-08T17:24:18.000Z</updated>
     
@@ -149,15 +149,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 34/2019 - Sequência Fibonacci</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-34-sequencia-fibonacci/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-34-sequencia-fibonacci/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-34-sequencia-fibonacci/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-34-sequencia-fibonacci/</id>
     <published>2020-08-07T15:18:06.000Z</published>
     <updated>2020-08-08T17:24:18.000Z</updated>
     
@@ -172,15 +172,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 33/2019 - Combinando Filter, Map e Reduce</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/</id>
     <published>2020-08-06T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -195,15 +195,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 32/2019 - Estação de trabalho interativa</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-32-estacao-de-trabalho-interativa/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-32-estacao-de-trabalho-interativa/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-32-estacao-de-trabalho-interativa/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-32-estacao-de-trabalho-interativa/</id>
     <published>2020-08-05T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -218,15 +218,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 31/2019 - Criando uma pirâmide</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-31-criando-uma-piramide/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-31-criando-uma-piramide/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-31-criando-uma-piramide/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-31-criando-uma-piramide/</id>
     <published>2020-08-04T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -241,15 +241,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 30/2019 - Animação de exercício na academia</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/</id>
     <published>2020-08-03T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -264,15 +264,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 29/2019 - Formas com CSS</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-29-formas-com-css/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-29-formas-com-css/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-29-formas-com-css/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-29-formas-com-css/</id>
     <published>2020-08-02T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -287,15 +287,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 28/2019 - CSS Grid Layout</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/</id>
     <published>2020-08-01T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -310,15 +310,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 27/2019 - Jogo de matar moscas</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-27-jogo-de-matar-moscas/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-27-jogo-de-matar-moscas/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-27-jogo-de-matar-moscas/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-27-jogo-de-matar-moscas/</id>
     <published>2020-07-31T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -333,15 +333,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 26/2019 - Galeria com Modal</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-26-galeria-com-modal/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-26-galeria-com-modal/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-26-galeria-com-modal/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-26-galeria-com-modal/</id>
     <published>2020-07-30T15:18:06.000Z</published>
     <updated>2020-08-07T00:55:29.000Z</updated>
     
@@ -356,15 +356,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 25/2019 - Experimento com input do tipo color</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-25-experimento-com-input-do-tipo-color/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-25-experimento-com-input-do-tipo-color/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-25-experimento-com-input-do-tipo-color/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-25-experimento-com-input-do-tipo-color/</id>
     <published>2020-07-29T15:18:06.000Z</published>
     <updated>2020-07-29T15:18:06.000Z</updated>
     
@@ -379,15 +379,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 24/2019 - Formulário simples</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-24-formulario-simples/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-24-formulario-simples/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-24-formulario-simples/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-24-formulario-simples/</id>
     <published>2020-07-28T15:18:06.000Z</published>
     <updated>2020-07-28T15:18:06.000Z</updated>
     
@@ -402,15 +402,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 23/2019 - Efeito Parallax</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-23-efeito-parallax/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-23-efeito-parallax/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-23-efeito-parallax/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-23-efeito-parallax/</id>
     <published>2020-07-27T15:18:06.000Z</published>
     <updated>2020-07-27T15:18:06.000Z</updated>
     
@@ -425,15 +425,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 22/2019 - Animação em menu de redes sociais</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-22-animacao-em-menu-de-redes-sociais/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-22-animacao-em-menu-de-redes-sociais/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-22-animacao-em-menu-de-redes-sociais/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-22-animacao-em-menu-de-redes-sociais/</id>
     <published>2020-07-26T15:18:06.000Z</published>
     <updated>2020-07-26T15:18:06.000Z</updated>
     
@@ -448,15 +448,15 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>
   
   <entry>
     <title>Dia 21/2019 - Tooltip com aria-label</title>
-    <link href="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-21-tooltip-com-aria-label/"/>
-    <id>https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/2019/dia-21-tooltip-com-aria-label/</id>
+    <link href="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-21-tooltip-com-aria-label/"/>
+    <id>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-21-tooltip-com-aria-label/</id>
     <published>2020-07-25T15:18:06.000Z</published>
     <updated>2020-07-25T15:18:06.000Z</updated>
     
@@ -471,7 +471,7 @@
     
     </summary>
     
-      <category term="daysofcode" scheme="https://nerdcalistenico.com.br/hemersonvianna/artigos/daysofcode/"/>
+      <category term="daysofcode" scheme="https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/"/>
     
     
   </entry>

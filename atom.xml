@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://nerdcalistenico.com.br/"/>
+  <link href="https://nerdcalistenico.github.io/"/>
   <updated>2020-07-29T00:47:21.000Z</updated>
-  <id>https://nerdcalistenico.com.br/</id>
+  <id>https://nerdcalistenico.github.io/</id>
   
   <author>
     <name>Nerd Calistenico</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://nerdcalistenico.com.br/uncategorized/test/"/>
-    <id>https://nerdcalistenico.com.br/uncategorized/test/</id>
+    <link href="https://nerdcalistenico.github.io/uncategorized/test/"/>
+    <id>https://nerdcalistenico.github.io/uncategorized/test/</id>
     <published>2020-05-31T19:20:00.000Z</published>
     <updated>2020-07-29T00:47:21.000Z</updated>
     
