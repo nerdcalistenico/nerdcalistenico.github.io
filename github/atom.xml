@@ -103,24 +103,6 @@
   </entry>
   
   <entry>
-    <title>ITCSS</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
-    
-      <category term="prime" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>NodeJS Pomodoro</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/</id>
@@ -139,9 +121,9 @@
   </entry>
   
   <entry>
-    <title>React SSR / CSR</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/</id>
+    <title>ITCSS</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -149,7 +131,9 @@
     
     </summary>
     
-      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/github/projects/mal-rondon/"/>
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
+    
+      <category term="prime" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/"/>
     
     
   </entry>
@@ -173,9 +157,9 @@
   </entry>
   
   <entry>
-    <title>WAI-ARIA Tabs</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/</id>
+    <title>React SSR / CSR</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -183,9 +167,7 @@
     
     </summary>
     
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
-    
-      <category term="resource" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/"/>
+      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/github/projects/mal-rondon/"/>
     
     
   </entry>
@@ -218,6 +200,24 @@
     </summary>
     
       <category term="hesiod" scheme="https://nerdcalistenico.github.io/github/projects/hesiod/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>WAI-ARIA Tabs</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
+    
+      <category term="resource" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/"/>
     
     
   </entry>
