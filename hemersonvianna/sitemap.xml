@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-42-gerenciando-cookies-do-navegador/</loc>
-    
-    <lastmod>2020-08-19T05:03:47.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-41-brincando-com-array-includes-indexof-lastindexof-find-e-findindex/</loc>
     
     <lastmod>2020-08-19T05:03:47.000Z</lastmod>
@@ -16,14 +9,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-44-calculadora-simples/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-42-gerenciando-cookies-do-navegador/</loc>
     
     <lastmod>2020-08-19T05:03:47.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-46-crud-com-nodejs/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-44-calculadora-simples/</loc>
     
     <lastmod>2020-08-19T05:03:47.000Z</lastmod>
     
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-45-brincando-com-array-keys-values-entries-copywithin-fill-e-reduceright/</loc>
+    
+    <lastmod>2020-08-19T05:03:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-46-crud-com-nodejs/</loc>
     
     <lastmod>2020-08-19T05:03:47.000Z</lastmod>
     
@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/</loc>
-    
-    <lastmod>2020-08-07T00:55:29.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-26-galeria-com-modal/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
@@ -121,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-29-formas-com-css/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-28-css-grid-layout/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-29-formas-com-css/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
@@ -142,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-30-animacao-de-exercicio-na-academia/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
@@ -150,6 +143,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-32-estacao-de-trabalho-interativa/</loc>
+    
+    <lastmod>2020-08-07T00:55:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/daysofcode/2019/dia-33-combinando-filter-map-e-reduce/</loc>
     
     <lastmod>2020-08-07T00:55:29.000Z</lastmod>
     
@@ -240,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-a-metodologia-agil/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/angular/comecando-com-angular/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/angular/comecando-com-angular/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-a-metodologia-agil/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -275,13 +275,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/comecando-com-gruntjs/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/git/comecando-com-git/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -289,14 +282,21 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/html/comecando-com-html/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-ddd/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/javascript/comecando-com-javascript/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/comecando-com-gruntjs/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/html/comecando-com-html/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -325,6 +325,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-logica-de-programacao/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/javascript/comecando-com-javascript/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -394,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/css/comecando-com-sass/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/ruby/comecando-com-ruby/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/ruby/comecando-com-ruby/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/css/comecando-com-sass/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -422,13 +429,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/vue/comecando-com-vue/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-uml/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -436,7 +436,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/php/comecando-com-wordpress/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/vue/comecando-com-vue/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -444,6 +444,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/comecando-com-wai-aria/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/php/comecando-com-wordpress/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -485,13 +492,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/IT-management/comecando-com-ddd/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/git/fluxo-e-versionamento-semantico-com-git/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -506,13 +506,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/php/php-orientacao-a-objetos/</loc>
-    
-    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/php/php-entendendo-o-array/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
@@ -520,7 +513,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react/react-ciclo-de-vida-e-context-api/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/php/php-orientacao-a-objetos/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -534,7 +527,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react/react-mudancas-na-versao-16-/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react/react-ciclo-de-vida-e-context-api/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -549,6 +542,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-criando-layouts-parte-1/</loc>
+    
+    <lastmod>2020-07-18T09:37:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react/react-mudancas-na-versao-16-/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
@@ -576,14 +576,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/ui-grid-sistemas-e-bibliotecas/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-tela-de-abertura-e-icone/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/react-native/react-native-tela-de-abertura-e-icone/</loc>
+    <loc>https://nerdcalistenico.github.io/hemersonvianna/artigos/front-end/ui-grid-sistemas-e-bibliotecas/</loc>
     
     <lastmod>2020-07-18T09:37:59.000Z</lastmod>
     
