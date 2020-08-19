@@ -190,6 +190,22 @@
   </entry>
   
   <entry>
+    <title>Super Oito</title>
+    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/"/>
+    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/</id>
+    <published>2020-08-11T19:20:00.000Z</published>
+    <updated>2020-08-17T04:40:36.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="canais" scheme="https://nerdcalistenico.github.io/perfil/categories/canais/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Gabriella Savina</title>
     <link href="https://nerdcalistenico.github.io/perfil/preferencias/calistenia/gabriella-savina/"/>
     <id>https://nerdcalistenico.github.io/perfil/preferencias/calistenia/gabriella-savina/</id>
@@ -208,22 +224,6 @@
     </summary>
     
       <category term="calistenia" scheme="https://nerdcalistenico.github.io/perfil/categories/calistenia/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Super Oito</title>
-    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/"/>
-    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/</id>
-    <published>2020-08-11T19:20:00.000Z</published>
-    <updated>2020-08-17T04:40:36.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="canais" scheme="https://nerdcalistenico.github.io/perfil/categories/canais/"/>
     
     
   </entry>
@@ -368,29 +368,6 @@
   </entry>
   
   <entry>
-    <title>Demi Bagby</title>
-    <link href="https://nerdcalistenico.github.io/perfil/preferencias/calistenia/demi-bagby/"/>
-    <id>https://nerdcalistenico.github.io/perfil/preferencias/calistenia/demi-bagby/</id>
-    <published>2020-08-09T19:20:00.000Z</published>
-    <updated>2020-08-17T04:40:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><strong>Instagram:</strong> <a href="https://www.instagram.com/demibagby/" target="_blank" rel="noopener">@demibagby</a></li><li><strong>Youtube:</strong> <a href="https://www.youtube.com/c/DemiBagby/videos" target="_blank" rel="noopener">DemiBagby</a></li><li><strong>Website:</strong> <a href="https://demibagbyfit.com/" target="_blank" rel="noopener">demibagbyfit.com</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&quot;https://www.instagram.com/demibagby/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@demibagby&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;st
-      
-    
-    </summary>
-    
-      <category term="calistenia" scheme="https://nerdcalistenico.github.io/perfil/categories/calistenia/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>NeuroVox (Pedro Calabrez)</title>
     <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/neurovox/"/>
     <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/neurovox/</id>
@@ -452,6 +429,29 @@
       <category term="tokusatsu" scheme="https://nerdcalistenico.github.io/perfil/categories/tokusatsu/"/>
     
       <category term="nostalgia" scheme="https://nerdcalistenico.github.io/perfil/categories/tokusatsu/nostalgia/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Demi Bagby</title>
+    <link href="https://nerdcalistenico.github.io/perfil/preferencias/calistenia/demi-bagby/"/>
+    <id>https://nerdcalistenico.github.io/perfil/preferencias/calistenia/demi-bagby/</id>
+    <published>2020-08-09T19:20:00.000Z</published>
+    <updated>2020-08-17T04:40:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><strong>Instagram:</strong> <a href="https://www.instagram.com/demibagby/" target="_blank" rel="noopener">@demibagby</a></li><li><strong>Youtube:</strong> <a href="https://www.youtube.com/c/DemiBagby/videos" target="_blank" rel="noopener">DemiBagby</a></li><li><strong>Website:</strong> <a href="https://demibagbyfit.com/" target="_blank" rel="noopener">demibagbyfit.com</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a href=&quot;https://www.instagram.com/demibagby/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@demibagby&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;st
+      
+    
+    </summary>
+    
+      <category term="calistenia" scheme="https://nerdcalistenico.github.io/perfil/categories/calistenia/"/>
     
     
   </entry>

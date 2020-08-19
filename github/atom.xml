@@ -17,22 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Ajax</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Email Templates</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</id>
@@ -46,6 +30,22 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
       <category term="insight" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ajax</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/"/>
     
     
   </entry>
@@ -173,22 +173,6 @@
   </entry>
   
   <entry>
-    <title>Sublime Front-end Snippets</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/w3-dev/sublime-front-end-snippets/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/w3-dev/sublime-front-end-snippets/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/github/projects/w3-dev/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Core</title>
     <link href="https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/"/>
     <id>https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/</id>
@@ -200,6 +184,22 @@
     </summary>
     
       <category term="hesiod" scheme="https://nerdcalistenico.github.io/github/projects/hesiod/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime Front-end Snippets</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/w3-dev/sublime-front-end-snippets/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/w3-dev/sublime-front-end-snippets/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/github/projects/w3-dev/"/>
     
     
   </entry>
