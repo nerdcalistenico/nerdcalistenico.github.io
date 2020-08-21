@@ -17,22 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Ajax</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Email Templates</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</id>
@@ -103,24 +87,6 @@
   </entry>
   
   <entry>
-    <title>NodeJS Pomodoro</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
-    
-      <category term="cli" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>ITCSS</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/</id>
@@ -139,9 +105,9 @@
   </entry>
   
   <entry>
-    <title>Pokémon Pure CSS</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</id>
+    <title>NodeJS Pomodoro</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -151,7 +117,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
-      <category term="joker" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/"/>
+      <category term="cli" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/"/>
     
     
   </entry>
@@ -168,6 +134,24 @@
     </summary>
     
       <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/github/projects/mal-rondon/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Pokémon Pure CSS</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
+    
+      <category term="joker" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/"/>
     
     
   </entry>
@@ -218,6 +202,22 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
       <category term="resource" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ajax</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/github/projects/owl-of-minerva/"/>
     
     
   </entry>

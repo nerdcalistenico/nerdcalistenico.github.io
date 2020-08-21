@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</loc>
-    
-    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
@@ -37,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/</loc>
-    
-    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
@@ -51,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</loc>
+    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/cli/nodejs-pomodoro/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
     
@@ -59,6 +45,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/</loc>
+    
+    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
     
@@ -80,6 +73,13 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/</loc>
+    
+    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
     
