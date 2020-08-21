@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</loc>
+    <loc>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
     
@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>https://nerdcalistenico.github.io/github/projects/headquarters/hexo-resources/</loc>
+    
+    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/documentation/git-flow/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
@@ -23,7 +30,28 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/headquarters/hexo-resources/</loc>
+    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</loc>
+    
+    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</loc>
+    
+    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/github/projects/w3-dev/sublime-front-end-snippets/</loc>
+    
+    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
     
@@ -44,27 +72,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/mal-rondon/react-ssr-csr/</loc>
-    
-    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</loc>
-    
-    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/w3-dev/sublime-front-end-snippets/</loc>
-    
-    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/</loc>
     
     <lastmod>2020-07-28T21:51:05.000Z</lastmod>
@@ -79,21 +86,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/owl-of-minerva/ajax/</loc>
-    
-    <lastmod>2020-07-28T21:51:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/github/organizations/index.html</loc>
+    <loc>https://nerdcalistenico.github.io/github/projects/index.html</loc>
     
     <lastmod>2020-07-27T20:20:26.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/github/projects/index.html</loc>
+    <loc>https://nerdcalistenico.github.io/github/organizations/index.html</loc>
     
     <lastmod>2020-07-27T20:20:26.000Z</lastmod>
     
