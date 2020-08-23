@@ -33,24 +33,6 @@
   </entry>
   
   <entry>
-    <title>Email Templates</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
-    
-      <category term="insight" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Fibonacci Sequence</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/math/fibonacci-sequence/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/math/fibonacci-sequence/</id>
@@ -82,6 +64,24 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
       <category term="documentation" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/documentation/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Email Templates</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/email-templates/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
+    
+      <category term="insight" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/insight/"/>
     
     
   </entry>
@@ -189,22 +189,6 @@
   </entry>
   
   <entry>
-    <title>Core</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="hesiod" scheme="https://nerdcalistenico.github.io/github/projects/hesiod/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>WAI-ARIA Tabs</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/</id>
@@ -218,6 +202,22 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
       <category term="resource" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Core</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hesiod" scheme="https://nerdcalistenico.github.io/github/projects/hesiod/"/>
     
     
   </entry>
