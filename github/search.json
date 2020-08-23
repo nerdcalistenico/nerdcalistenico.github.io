@@ -161,12 +161,12 @@
          
       
       
+         
       
       
+      
          
          
-         
-            
          
             
          
@@ -183,12 +183,12 @@
          
       
       
-         
-      
       
       
          
          
+         
+            
          
             
          
@@ -262,4 +262,4 @@
   
   
 
-  [{"title":"Ajax","url":"/github/projects/owl-of-minerva/ajax/","categories":["owl of minerva"]},{"title":"Email Templates","url":"/github/projects/victorinox-tool/insight/email-templates/","categories":["insight"]},{"title":"Fibonacci Sequence","url":"/github/projects/victorinox-tool/math/fibonacci-sequence/","categories":["math"]},{"title":"Git Flow","url":"/github/projects/victorinox-tool/documentation/git-flow/","categories":["documentation"]},{"title":"Hexo Resources","url":"/github/projects/headquarters/hexo-resources/","categories":["headquarters"]},{"title":"ITCSS","url":"/github/projects/victorinox-tool/prime/itcss/","categories":["prime"]},{"title":"NodeJS Pomodoro","url":"/github/projects/victorinox-tool/cli/nodejs-pomodoro/","categories":["cli"]},{"title":"Pokémon Pure CSS","url":"/github/projects/victorinox-tool/joker/pokemon-pure-css/","categories":["joker"]},{"title":"React SSR / CSR","url":"/github/projects/mal-rondon/react-ssr-csr/","content":"\n","categories":["mal. rondon"]},{"title":"Sublime Front-end Snippets","url":"/github/projects/w3-dev/sublime-front-end-snippets/","categories":["w3.dev"]},{"title":"Core","url":"/github/projects/hesiod/ui-core/","categories":["hesiod"]},{"title":"WAI-ARIA Tabs","url":"/github/projects/victorinox-tool/resource/wai-aria-tabs/","categories":["resource"]}]
+  [{"title":"Ajax","url":"/github/projects/owl-of-minerva/ajax/","categories":["owl of minerva"]},{"title":"Email Templates","url":"/github/projects/victorinox-tool/insight/email-templates/","categories":["insight"]},{"title":"Fibonacci Sequence","url":"/github/projects/victorinox-tool/math/fibonacci-sequence/","categories":["math"]},{"title":"Git Flow","url":"/github/projects/victorinox-tool/documentation/git-flow/","categories":["documentation"]},{"title":"Hexo Resources","url":"/github/projects/headquarters/hexo-resources/","categories":["headquarters"]},{"title":"ITCSS","url":"/github/projects/victorinox-tool/prime/itcss/","categories":["prime"]},{"title":"NodeJS Pomodoro","url":"/github/projects/victorinox-tool/cli/nodejs-pomodoro/","categories":["cli"]},{"title":"React SSR / CSR","url":"/github/projects/mal-rondon/react-ssr-csr/","content":"\n","categories":["mal. rondon"]},{"title":"WAI-ARIA Tabs","url":"/github/projects/victorinox-tool/resource/wai-aria-tabs/","categories":["resource"]},{"title":"Sublime Front-end Snippets","url":"/github/projects/w3-dev/sublime-front-end-snippets/","categories":["w3.dev"]},{"title":"Core","url":"/github/projects/hesiod/ui-core/","categories":["hesiod"]},{"title":"Pokémon Pure CSS","url":"/github/projects/victorinox-tool/joker/pokemon-pure-css/","categories":["joker"]}]
