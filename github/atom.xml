@@ -87,22 +87,6 @@
   </entry>
   
   <entry>
-    <title>Hexo Resources</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/headquarters/hexo-resources/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/headquarters/hexo-resources/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="headquarters" scheme="https://nerdcalistenico.github.io/github/projects/headquarters/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>ITCSS</title>
     <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/"/>
     <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/itcss/</id>
@@ -116,6 +100,22 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
       <category term="prime" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/prime/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Resources</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/headquarters/hexo-resources/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/headquarters/hexo-resources/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="headquarters" scheme="https://nerdcalistenico.github.io/github/projects/headquarters/"/>
     
     
   </entry>
@@ -155,9 +155,9 @@
   </entry>
   
   <entry>
-    <title>WAI-ARIA Tabs</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/</id>
+    <title>Pokémon Pure CSS</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -167,7 +167,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
     
-      <category term="resource" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/"/>
+      <category term="joker" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/"/>
     
     
   </entry>
@@ -189,6 +189,24 @@
   </entry>
   
   <entry>
+    <title>WAI-ARIA Tabs</title>
+    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/"/>
+    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/wai-aria-tabs/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
+    
+      <category term="resource" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/resource/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Core</title>
     <link href="https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/"/>
     <id>https://nerdcalistenico.github.io/github/projects/hesiod/ui-core/</id>
@@ -200,24 +218,6 @@
     </summary>
     
       <category term="hesiod" scheme="https://nerdcalistenico.github.io/github/projects/hesiod/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Pokémon Pure CSS</title>
-    <link href="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/"/>
-    <id>https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/pokemon-pure-css/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/"/>
-    
-      <category term="joker" scheme="https://nerdcalistenico.github.io/github/projects/victorinox-tool/joker/"/>
     
     
   </entry>
