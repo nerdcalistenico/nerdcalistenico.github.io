@@ -17,6 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Ajax</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Email Templates</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/</id>
@@ -141,6 +157,22 @@
   </entry>
   
   <entry>
+    <title>React SSR / CSR</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Sublime Front-end Snippets</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
@@ -152,22 +184,6 @@
     </summary>
     
       <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Ajax</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
     
     
   </entry>
@@ -202,22 +218,6 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
       <category term="resource" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>React SSR / CSR</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
     
     
   </entry>
