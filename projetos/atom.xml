@@ -17,9 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Fibonacci Sequence</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
+    <title>Ajax</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -27,9 +27,7 @@
     
     </summary>
     
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
+      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
     
     
   </entry>
@@ -48,6 +46,24 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
       <category term="insight" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fibonacci Sequence</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
     
     
   </entry>
@@ -82,22 +98,6 @@
     </summary>
     
       <category term="headquarters" scheme="https://nerdcalistenico.github.io/projetos/categorias/headquarters/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Ajax</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
     
     
   </entry>
@@ -157,22 +157,6 @@
   </entry>
   
   <entry>
-    <title>Sublime Front-end Snippets</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>React SSR / CSR</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
@@ -184,6 +168,22 @@
     </summary>
     
       <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime Front-end Snippets</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
     
     
   </entry>
