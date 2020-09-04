@@ -414,22 +414,6 @@
   </entry>
   
   <entry>
-    <title>NeuroVox (Pedro Calabrez)</title>
-    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/neurovox/"/>
-    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/neurovox/</id>
-    <published>2020-08-09T19:20:00.000Z</published>
-    <updated>2020-08-17T04:40:36.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="canais" scheme="https://nerdcalistenico.github.io/perfil/categories/canais/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Dinosaurs</title>
     <link href="https://nerdcalistenico.github.io/perfil/preferencias/programas-infantis/dinosaurs/"/>
     <id>https://nerdcalistenico.github.io/perfil/preferencias/programas-infantis/dinosaurs/</id>
@@ -475,6 +459,22 @@
       <category term="tokusatsu" scheme="https://nerdcalistenico.github.io/perfil/categories/tokusatsu/"/>
     
       <category term="nostalgia" scheme="https://nerdcalistenico.github.io/perfil/categories/tokusatsu/nostalgia/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NeuroVox (Pedro Calabrez)</title>
+    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/neurovox/"/>
+    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/neurovox/</id>
+    <published>2020-08-09T19:20:00.000Z</published>
+    <updated>2020-08-17T04:40:36.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="canais" scheme="https://nerdcalistenico.github.io/perfil/categories/canais/"/>
     
     
   </entry>
