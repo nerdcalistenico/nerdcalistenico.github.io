@@ -121,6 +121,56 @@
   </entry>
   
   <entry>
+    <title>React SSR / CSR</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime Front-end Snippets</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>WAI-ARIA Tabs</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="resource" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>NodeJS Pomodoro</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
@@ -157,38 +207,6 @@
   </entry>
   
   <entry>
-    <title>React SSR / CSR</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Sublime Front-end Snippets</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Core</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
@@ -200,24 +218,6 @@
     </summary>
     
       <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>WAI-ARIA Tabs</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="resource" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/"/>
     
     
   </entry>
