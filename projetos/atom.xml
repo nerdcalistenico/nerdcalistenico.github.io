@@ -33,9 +33,9 @@
   </entry>
   
   <entry>
-    <title>Email Templates</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/</id>
+    <title>Git Flow</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -45,7 +45,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="insight" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/"/>
+      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
     
     
   </entry>
@@ -69,9 +69,9 @@
   </entry>
   
   <entry>
-    <title>Git Flow</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
+    <title>Email Templates</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -81,7 +81,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
+      <category term="insight" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/"/>
     
     
   </entry>
@@ -98,6 +98,24 @@
     </summary>
     
       <category term="headquarters" scheme="https://nerdcalistenico.github.io/projetos/categorias/headquarters/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NodeJS Pomodoro</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
     
     
   </entry>
@@ -121,9 +139,9 @@
   </entry>
   
   <entry>
-    <title>NodeJS Pomodoro</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
+    <title>Core</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -131,9 +149,23 @@
     
     </summary>
     
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
     
-      <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime Front-end Snippets</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
     
     
   </entry>
@@ -168,38 +200,6 @@
     </summary>
     
       <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Sublime Front-end Snippets</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/w3-dev/sublime-front-end-snippets/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="w3.dev" scheme="https://nerdcalistenico.github.io/projetos/categorias/w3-dev/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Core</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
     
     
   </entry>
