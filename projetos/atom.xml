@@ -17,22 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Ajax</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Email Templates</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/</id>
@@ -46,24 +30,6 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
       <category term="insight" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Git Flow</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
     
     
   </entry>
@@ -103,9 +69,9 @@
   </entry>
   
   <entry>
-    <title>NodeJS Pomodoro</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
+    <title>Git Flow</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -115,7 +81,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
+      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
     
     
   </entry>
@@ -139,6 +105,40 @@
   </entry>
   
   <entry>
+    <title>NodeJS Pomodoro</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ajax</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Pokémon Pure CSS</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
@@ -157,9 +157,9 @@
   </entry>
   
   <entry>
-    <title>React SSR / CSR</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
+    <title>Core</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -167,7 +167,7 @@
     
     </summary>
     
-      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
+      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
     
     
   </entry>
@@ -189,6 +189,22 @@
   </entry>
   
   <entry>
+    <title>React SSR / CSR</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/react-ssr-csr/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>WAI-ARIA Tabs</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/</id>
@@ -202,22 +218,6 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
       <category term="resource" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Core</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
     
     
   </entry>
