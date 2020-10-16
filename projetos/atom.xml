@@ -33,24 +33,6 @@
   </entry>
   
   <entry>
-    <title>Fibonacci Sequence</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Email Templates</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/insight/email-templates/</id>
@@ -87,9 +69,9 @@
   </entry>
   
   <entry>
-    <title>Hexo Resources</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/</id>
+    <title>Fibonacci Sequence</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -97,7 +79,9 @@
     
     </summary>
     
-      <category term="headquarters" scheme="https://nerdcalistenico.github.io/projetos/categorias/headquarters/"/>
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
     
     
   </entry>
@@ -134,6 +118,22 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
       <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Resources</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="headquarters" scheme="https://nerdcalistenico.github.io/projetos/categorias/headquarters/"/>
     
     
   </entry>
