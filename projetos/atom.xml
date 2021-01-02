@@ -69,6 +69,24 @@
   </entry>
   
   <entry>
+    <title>Git Flow</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo Resources</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/</id>
@@ -103,9 +121,9 @@
   </entry>
   
   <entry>
-    <title>Git Flow</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
+    <title>Pokémon Pure CSS</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -115,7 +133,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
+      <category term="joker" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/"/>
     
     
   </entry>
@@ -150,24 +168,6 @@
     </summary>
     
       <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Pokémon Pure CSS</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="joker" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/"/>
     
     
   </entry>
