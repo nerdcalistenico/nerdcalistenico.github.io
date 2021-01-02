@@ -328,22 +328,6 @@
   </entry>
   
   <entry>
-    <title>Super Oito</title>
-    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/"/>
-    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/</id>
-    <published>2020-08-11T19:20:00.000Z</published>
-    <updated>2020-08-17T04:40:36.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="canais" scheme="https://nerdcalistenico.github.io/perfil/categories/canais/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Punky Brewster</title>
     <link href="https://nerdcalistenico.github.io/perfil/preferencias/programas-infantis/punky-brewster/"/>
     <id>https://nerdcalistenico.github.io/perfil/preferencias/programas-infantis/punky-brewster/</id>
@@ -394,10 +378,10 @@
   </entry>
   
   <entry>
-    <title>Castro Brothers</title>
-    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/castro-brothers/"/>
-    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/castro-brothers/</id>
-    <published>2020-08-10T19:20:00.000Z</published>
+    <title>Super Oito</title>
+    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/"/>
+    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/super-oito/</id>
+    <published>2020-08-11T19:20:00.000Z</published>
     <updated>2020-08-17T04:40:36.000Z</updated>
     
     <summary type="html">
@@ -478,6 +462,22 @@
       <category term="tokusatsu" scheme="https://nerdcalistenico.github.io/perfil/categories/tokusatsu/"/>
     
       <category term="nostalgia" scheme="https://nerdcalistenico.github.io/perfil/categories/tokusatsu/nostalgia/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Castro Brothers</title>
+    <link href="https://nerdcalistenico.github.io/perfil/preferencias/canais/castro-brothers/"/>
+    <id>https://nerdcalistenico.github.io/perfil/preferencias/canais/castro-brothers/</id>
+    <published>2020-08-10T19:20:00.000Z</published>
+    <updated>2020-08-17T04:40:36.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="canais" scheme="https://nerdcalistenico.github.io/perfil/categories/canais/"/>
     
     
   </entry>
