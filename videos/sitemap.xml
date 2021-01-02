@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/front-end/curso-html5-e-css3/</loc>
+    
+    <lastmod>2021-01-02T14:31:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/devops/mini-curso-de-kubernetes-para-devs-javascript/</loc>
+    
+    <lastmod>2021-01-02T14:31:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/idiomas/curso-de-ingles-kultivi/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/idiomas/curso-de-chines/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -30,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/back-end/curso-de-nodejs/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/back-end/curso-de-php-7/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/back-end/curso-de-php-7/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/back-end/curso-de-nodejs/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -58,28 +79,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/idiomas/curso-de-alemao/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-03-10-2019/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-05-03-2020/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-05-09-2019/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -100,6 +100,20 @@
   </url>
   
   <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-05-09-2019/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-03-10-2019/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-06-02-2020/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
@@ -114,21 +128,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-09-01-2020/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-12-03-2020/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-10-10-2019/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/idiomas/curso-de-alemao/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-13-02-2020/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-09-01-2020/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -150,6 +150,20 @@
   
   <url>
     <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-12-12-2019/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-13-02-2020/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-12-03-2020/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -191,20 +205,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-19-12-2019/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-21-11-2019/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-20-02-2020/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
@@ -219,14 +219,28 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-24-10-2019/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-19-12-2019/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-26-09-2019/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-21-11-2019/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-10-10-2019/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-24-10-2019/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
@@ -268,13 +282,6 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/paletras/front-end/palestra-construindo-front-ends-funcionais-com-clojure-script/</loc>
-    
-    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/paletras/front-end/palestra-estrategias-de-seo-para-desenvolvedores-front-end/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
@@ -282,14 +289,21 @@
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/paletras/back-end/palestra-programacao-funcional-em-php/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/paletras/front-end/palestra-construindo-front-ends-funcionais-com-clojure-script/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/cursos/idiomas/curso-de-chines/</loc>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/filmes-da-semana/estreias-no-cinema-26-09-2019/</loc>
+    
+    <lastmod>2020-08-03T22:15:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nerdcalistenico.github.io/videos/categorias/recomendacao/paletras/back-end/palestra-programacao-funcional-em-php/</loc>
     
     <lastmod>2020-08-03T22:15:42.000Z</lastmod>
     
