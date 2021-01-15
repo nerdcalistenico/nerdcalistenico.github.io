@@ -69,24 +69,6 @@
   </entry>
   
   <entry>
-    <title>Fibonacci Sequence</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hexo Resources</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/</id>
@@ -116,6 +98,42 @@
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
       <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fibonacci Sequence</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Pokémon Pure CSS</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
+    <published>2020-07-28T21:51:05.000Z</published>
+    <updated>2020-07-28T21:51:05.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="joker" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/"/>
     
     
   </entry>
@@ -155,9 +173,9 @@
   </entry>
   
   <entry>
-    <title>Pokémon Pure CSS</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
+    <title>WAI-ARIA Tabs</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -167,23 +185,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="joker" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Core</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
-    <published>2020-07-28T21:51:05.000Z</published>
-    <updated>2020-07-28T21:51:05.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
+      <category term="resource" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/"/>
     
     
   </entry>
@@ -205,9 +207,9 @@
   </entry>
   
   <entry>
-    <title>WAI-ARIA Tabs</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/wai-aria-tabs/</id>
+    <title>Core</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
     <published>2020-07-28T21:51:05.000Z</published>
     <updated>2020-07-28T21:51:05.000Z</updated>
     
@@ -215,9 +217,7 @@
     
     </summary>
     
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="resource" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/resource/"/>
+      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
     
     
   </entry>
