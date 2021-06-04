@@ -17,9 +17,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Pokémon Pure CSS</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
+    <title>NodeJS Pomodoro</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
     <published>2021-06-01T22:30:42.021Z</published>
     <updated>2021-06-01T22:30:42.021Z</updated>
     
@@ -29,7 +29,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="joker" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/"/>
+      <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
     
     
   </entry>
@@ -69,9 +69,9 @@
   </entry>
   
   <entry>
-    <title>NodeJS Pomodoro</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/nodejs-pomodoro/</id>
+    <title>Pokémon Pure CSS</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/pokemon-pure-css/</id>
     <published>2021-06-01T22:30:42.021Z</published>
     <updated>2021-06-01T22:30:42.021Z</updated>
     
@@ -81,23 +81,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="cli" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/cli/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Core</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
-    <published>2021-06-01T22:30:42.021Z</published>
-    <updated>2021-06-01T22:30:42.021Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
+      <category term="joker" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/joker/"/>
     
     
   </entry>
@@ -114,6 +98,22 @@
     </summary>
     
       <category term="mal. rondon" scheme="https://nerdcalistenico.github.io/projetos/categorias/mal-rondon/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Core</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/hesiod/ui-core/</id>
+    <published>2021-06-01T22:30:42.021Z</published>
+    <updated>2021-06-01T22:30:42.021Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hesiod" scheme="https://nerdcalistenico.github.io/projetos/categorias/hesiod/"/>
     
     
   </entry>
@@ -137,24 +137,6 @@
   </entry>
   
   <entry>
-    <title>Git Flow</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
-    <published>2021-06-01T22:30:42.020Z</published>
-    <updated>2021-06-01T22:30:42.020Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
-    
-      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Ajax</title>
     <link href="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/"/>
     <id>https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/ajax/</id>
@@ -166,6 +148,40 @@
     </summary>
     
       <category term="owl of minerva" scheme="https://nerdcalistenico.github.io/projetos/categorias/owl-of-minerva/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fibonacci Sequence</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
+    <published>2021-06-01T22:30:42.020Z</published>
+    <updated>2021-06-01T22:30:42.020Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
+    
+      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Resources</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/</id>
+    <published>2021-06-01T22:30:42.020Z</published>
+    <updated>2021-06-01T22:30:42.021Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="headquarters" scheme="https://nerdcalistenico.github.io/projetos/categorias/headquarters/"/>
     
     
   </entry>
@@ -189,25 +205,9 @@
   </entry>
   
   <entry>
-    <title>Hexo Resources</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/headquarters/hexo-resources/</id>
-    <published>2021-06-01T22:30:42.020Z</published>
-    <updated>2021-06-01T22:30:42.021Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="headquarters" scheme="https://nerdcalistenico.github.io/projetos/categorias/headquarters/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Fibonacci Sequence</title>
-    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/"/>
-    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/fibonacci-sequence/</id>
+    <title>Git Flow</title>
+    <link href="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/"/>
+    <id>https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/git-flow/</id>
     <published>2021-06-01T22:30:42.020Z</published>
     <updated>2021-06-01T22:30:42.020Z</updated>
     
@@ -217,7 +217,7 @@
     
       <category term="victorinox tool" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/"/>
     
-      <category term="math" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/math/"/>
+      <category term="documentation" scheme="https://nerdcalistenico.github.io/projetos/categorias/victorinox-tool/documentation/"/>
     
     
   </entry>
